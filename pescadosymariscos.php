@@ -1,0 +1,1 @@
+<?php require 'views/pescadosymariscos.view.php';?>

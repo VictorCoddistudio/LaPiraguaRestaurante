@@ -1,0 +1,87 @@
+.wrap {
+	width: 90%;
+	max-width: 500px;
+	margin: auto;
+}
+
+form {
+	width: 100%;
+	
+	padding: 20px;
+	background: #ecd8c6;
+	overflow: hidden;
+	box-shadow: 0 0 3px grey;
+	border-top:4px solid #DD181C;
+	border-bottom:4px solid #DD181C;
+	border-right:4px solid #DD181C;
+	border-left:4px solid #DD181C;
+	color:#000;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="password"],
+form input[type="tel"],
+form textarea {
+	background: #d9d9d9;
+	border: 1px solid  #DD181C;
+	border-radius: 2px;
+	padding: 16px;
+	width: 100%;
+	display: block;
+	margin-bottom:20px;
+	font-family: 'Myriad', sans-serif;
+	font-size: 1em;
+	color:#141938;
+}
+
+form input[type="text"]:focus,
+form input[type="email"]:focus,
+form input[type="password"]:focus,
+form input[type="tel"]:focus,
+form textarea:focus{
+	border: 2px solid #00e6e6;/*celeste*/
+	padding: 15px;
+}
+
+form textarea {
+	max-width: 100%;
+	min-width: 100%;
+	max-height: 300px;
+	min-height: 150px;
+}
+
+.alert {
+	padding: 1em;
+	color:#000;
+	border-radius: 2px;
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+.alert.error {
+	background: #DD181C;
+	border:1px solid #a94442;
+	color: #000;
+}
+
+.alert.success {
+	background: #4CAF50;
+}
+
+.btn,
+form input[type="submit"]{
+	padding: 15px;
+	background: #DD181C;
+	color:#E1E9FA;
+	font-size: 1em;
+	font-family: 'Myriad', sans-serif;
+	border-radius: 2px;
+	border:none;
+	float: right;
+	cursor: pointer;
+}
+
+form input[type="submit"]:hover{
+	background: #E64A19;
+}

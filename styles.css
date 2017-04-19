@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	/*font-size: 13px;
+	font-family: 'Myriad', sans-serif;
+
+*/	width:auto;
+	background-image: url("../images/plantillalapiragua.png");
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	color:#fff;
+	margin: 0 auto;
+}
+
+.galeria{
+
+	max-width: 100%;
+   height: auto;
+   	 width: auto; 
+	
+}
+.logosmenu{
+	position: relative;
+	margin-left: 40%;
+}
+.logoportada{
+	position: relative;
+	margin-left: 50%;
+	;
+}
+#logoportada2{
+	
+	width:17%;
+	height:auto;
+	margin:0 auto;
+	margin-bottom: 0px;
+}
+.galeriaprodutos img{
+	position: relative;
+	margin-left: 20%;
+}
+.galeriaproductos article p {
+	color: #1aa3ff;
+	background:#1aa3ff;
+	left: 0%;
+
+	
+}
+.container div div img{
+	width:auto;
+	height:auto;
+}
+
+#gp{
+	max-width:500px;
+	font-size: 2em;
+	font-family: 'Myriad', sans-serif;
+	color:#fff;
+	font-weight: bold;
+	text-align: center;
+	background:#1aa3ff;
+	position: relative;
+	left: 20%;
+}
+#H_vertical{
+
+	float: right;
+	max-width: 100%;
+    height: auto;
+   	width: auto; 
+   display:block;
+   margin:0 auto 0 auto;
+}
+ul{
+       list-style:none;
+
+   }
+.contenidos div {
+
+	
+}
+#float1{
+border: 1px solid  #000099;
+	}
+#float2{
+border: 1px solid  #ff9900;
+}
+#float3{
+border: 1px solid  #003300;
+}
+#float4{
+ border: 1px solid #DD181C;
+}
