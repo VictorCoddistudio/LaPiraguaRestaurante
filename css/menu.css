@@ -25,7 +25,7 @@ nav {
 header nav ul{
 	margin-left:5%;
 	list-style: none;
-	
+
 }
 
 header nav ul li{
@@ -54,12 +54,12 @@ padding: 10px;
 #logobolsatrabajo, #logofb, #logobocontacto{
 	left:25em;
 	text-align:left;
-	
+
 }
 #logobolsatrabajo2, #logofb2, #logobocontacto2{
 	left:40em;
 	text-align:left;
-	
+
 }
 
 #logohistoria2,#logomenu2{
@@ -81,28 +81,28 @@ padding: 10px;
 		top:0px;
 
 	}
-	
-	
+
+
 
 	header nav{
 		left: -25em;
 		width:40%;
 		top: 50px;
 		height: calc(100% - 40px);
-		
+
 		background: #331a00;
 
 		background-image: url("../images/plantillalapiraguamenuresponsive.png");
 		background-position: center center;
 	    background-repeat: no-repeat;
-	  
+
 	    background-size: cover;
 		transition: all .5s;
 		margin: 0px;
 		overflow: hidden;
 
 	}
-	
+
 	nav.mostrar {
 		left: 0;
 	}
@@ -129,17 +129,17 @@ padding: 10px;
 }
 
 
-	#logorestaurante, 
-	#logohistoria, 
+	#logorestaurante,
+	#logohistoria,
 	#logomenu,
 	#logopescado,
-	#logobolsatrabajo, 
-	#logofb, 
+	#logobolsatrabajo,
+	#logofb,
 	#logobocontacto,
 	#logobolsatrabajo2,
-	#logohistoria2, 
+	#logohistoria2,
 	#logomenu2,
-	#logofb2, 
+	#logofb2,
 	#logobocontacto2{
 		left:0px;
 
