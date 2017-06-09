@@ -30,15 +30,21 @@
 
 
 					<img src="images/portada/lapiraguainterior.png" title="La piragua" alt="La piragua" class="portada"  /><br/><br/><br/>
-          <div class="videos">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/10jZn5PXi0w" frameborder="1" allowfullscreen >
-            </iframe>
+          <div class="row">
+            <div class="col-sm-12">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/10jZn5PXi0w" frameborder="1" allowfullscreen >
+              </iframe>
+            </div>
           </div>
           <br/><br/><br/>
           <img src="images/portada/kilo-de-chicharron-bassa-la-piragua-restarurante.png" title="Kilo de Chicharrón" alt="Kilo de Chicharrón" class="portada"  />
           <br/><br/><br/>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/XCObpsr6rAM" frameborder="0">
-          </iframe><br/><br/><br/>
+          <div class="row">
+            <div class="col-sm-12">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/XCObpsr6rAM" frameborder="0">
+              </iframe><br/><br/><br/>
+            </div>
+          </div>
           <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos.png" class="portada" id="logoportada2" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a>
 
 
