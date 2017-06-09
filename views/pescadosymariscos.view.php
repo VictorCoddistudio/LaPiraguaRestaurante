@@ -3,6 +3,8 @@
  <?php require 'header.view.php';?>
  <?php require 'menu.view.php'; ?>
 
+<div class="container">
+</div>
 <section >
 		<div class="contenidos">
 		<h1 class="titulo">100% PESCADOS Y MARISCOS</h1>
@@ -10,10 +12,10 @@
 
 		<div id="float1" >
 			<img src="images/pescadosymariscos/filetedepescado100.png" title="Filete de pescado" alt="filete de pescado"  />
-				
+
 				<ul>
 
-					<li>Filetes de Pescado (Sin espina)</li>			
+					<li>Filetes de Pescado (Sin espina)</li>
 					<li>Bassa</li>
 					<li>Cazón</li>
 					<li>Corvina</li>
@@ -31,7 +33,7 @@
 
 
 		</div>
-	
+
 		<div id="float2">
 		<img src="images/pescadosymariscos/pescadoentero100.png" title="Pescado Entero" alt="Pescado Entero"  />
 
@@ -96,7 +98,7 @@
 			</ul>
 		</div>
 	</article>
-			
+
 	<article>
 		<p>
 		Contactanos:
@@ -104,12 +106,12 @@
 			o contacto@lapiraguarestaurante.com
 			</p>
 		</article>
-						
-			
-	
+
+
+
 		</div>
 
 </section>
 
- 
+
 <?php require 'footer.view.php'; ?>
