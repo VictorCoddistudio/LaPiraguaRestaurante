@@ -2,24 +2,24 @@
 #logoprincipal {
 	  max-width: 100%;
     	height: auto;
-   	 width: auto; 
+   	 width: auto;
 	}
 #portada{
 	max-width: 100%;
     height: auto;
-   	width: auto; 
+   	width: auto;
 }
 .portada{
 	max-width: 100%;
     height: auto;
-   	width: auto; 
+   	width: auto;
    display:block;
    margin:0 auto 0 auto;
 }
 #map{
 	max-width: 100%;
     	height: 300;
-   	 width: 100%; 
+   	 width: 100%;
 }
 
 a {
@@ -31,26 +31,26 @@ a:hover {
 	text-decoration: underline;
 }
 
-	
+
 .contenido{
 	position: relative;
 	top:30px;
-	 
-	
+
+
 	width: 90%;
 	margin: 0 auto;
 	margin-bottom:50px;
-	
+
 }
 .contenidos{/*Para los pescados*/
 	position: relative;
 	top:30px;
-	 
-	
+
+
 	width: 90%;
 	margin: 0 auto;
 	margin-bottom:50px;
-	
+
 }
 
 
@@ -58,25 +58,25 @@ a:hover {
 
 	position: relative;
 	top:50px;
-	left: 5px; 
+	left: 5px;
 	max-width: 500px;
 	width: 90%;
-	
-	  
+
+
 
 }
 .issuuembed{
 	position: relative;
 	top:150px;
-	left: 5px; 
-	
+	left: 5px;
+
 	width: 90%;
 	margin: auto;
-	
+
 }
 
 .titulo {
-	
+
 	font-weight: 300;
 	color: #000;
 	text-align: center;
@@ -86,9 +86,18 @@ a:hover {
 	font-weight: bold;
 }
 
+iframe {
+
+  display: block;
+
+		height: 315px;
+		width: 560px;
+
+	 margin:0 auto;
+}
 .border {
 	border:none;
-	margin-bottom: 5px; 
+	margin-bottom: 5px;
 	border-top:10px solid #DD181C;
 	background: none;
 	color:none;
@@ -177,7 +186,7 @@ a:hover {
 }
 
 .formulario .error ul li {
-	margin-bottom: 10px;	
+	margin-bottom: 10px;
 
 }
 
@@ -191,7 +200,7 @@ a:hover {
 	background: #679863;
 	display: inline-block;
 	color:#fff;
-	
+
 	cursor: pointer;
 
 	-webkit-border-radius: 0 3px 3px 0;
@@ -215,7 +224,7 @@ a:hover {
 	width:auto;
 	margin: 0 auto 0 auto;
 	top: 50px;
-	
+
 	background: #ecd8c6;
 	color:#000;
 	border: 5px solid  #DD181C;
@@ -227,14 +236,14 @@ a:hover {
 	display:inline-block;
 	margin:0 auto 0 auto;
 	width:auto;
-	
+
 	/*border-radius: 20px 20px 20px 20px;*/
 }
 .contenidos article {/*Para los pescados*/
 	width:70%;
 	margin: 0 auto 0 auto;
 	top: 50px;
-	
+
 	background: #ecd8c6;
 	color:#000;
 	border: 5px solid  #DD181C;
@@ -247,16 +256,16 @@ a:hover {
 	display:inline-block;
 	margin: 10px;
 	margin-bottom: 20px;
-	
+
 	width:auto;
-	
+
 	/*border-radius: 20px 20px 20px 20px;*/
 }
 
 
 .contenido article p{
 	margin-bottom: 5px;
-	
+
 }
 
 #alineamenu{
@@ -267,24 +276,24 @@ a:hover {
 /* --- Footer --- */
 footer {
 	background: #DD181C;
-	
+
 	color: #fff;
 	width: 100%;
 	position: relative;
 	top: 600px;
-	
-	
-	
-	
-	 
+
+
+
+
+
 }
 
 footer p{
-	text-align: right;	
+	text-align: right;
 	font-size: 14px;
 	background:  #DD181C;
 	width:60%;
-	
+
 	margin: 0 auto;
 		margin-right:15%
 }
@@ -292,10 +301,10 @@ footer p{
 .ocultar {
 		visibility: hidden;
 
-		
+
 	}
 
-	
+
 .contenedor:hover .ocultar{
 	visibility: visible;
 
