@@ -2,18 +2,11 @@
 <html lang="es">
  <?php require 'header.view.php';?>
  <?php require 'menu.view.php'; ?>
- 
+
 
 	 	<div class="contenedor">
-			
-			
-		
-
-			<!--<div class="contenido">
-				
-			</div>-->
 		</div>
-		
+
 		<div class="contenedor wrap">
 
 		<h1 class="titulo">Bolsa de Trabajo</h1>
@@ -27,12 +20,12 @@
 				<input type="tel" name="telefono" placeholder="(868)5331258">
 				Asunto:
 				<input type="text" class="form-control" id="asunto" name="asunto" placeholder="Empleo">
-				
+
 				<textarea name="mensaje" class="form-control" id="mensaje" placeholder="Mensaje:"></textarea>
 				<input type="submit" name="submit" class="btn btn-primary" value="Enviar ">
 			</form>
 		</div>
-	
 
-	
+
+
 <?php require 'footer.view.php'; ?>
