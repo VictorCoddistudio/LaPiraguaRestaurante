@@ -1,53 +1,39 @@
 header{
 	position: relative;
-	background-image: url("../images/barramenu.png");
 	margin:0 auto;
 	top:30px;
 }
-
-nav {
-	/*font-size: 13px;
-	font-family: 'Myriad', sans-serif;
-*/
-	/*background-image: url("../images/barramenu.png");*/
+/*navbar*/
+.navbar-default{
+	background-image: url("../images/barramenu.png");
+	border-color: transparent;
 	max-width: 2000px;
 	max-height:50px;
 	width:auto;
 	position: relative;
 	top:0px;
-	margin: 0 auto; /* Centro el contenedor */
-	/*background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-	color:#fff;*/
-}
-header nav ul{
-	margin-left:5%;
-	list-style: none;
-
+	margin: 0 auto;
 }
 
-header nav ul li{
-display:inline-block;
-position:relative;
-top:-25px;
-
+/* Links */
+.navbar-default .navbar-nav > li > a{
+	color: #27348A;
+	display:block;
+	text-decoration: none;
+	padding: 10px;
+  text-align: center;
 }
 
-header nav ul li a {
-display:block;
-padding: 10px;
 
 
-}
+
 
 #logorestaurante, #logohistoria, #logomenu{
 	left:10%;
 
 }
 #logopescado{
-	left:65em;
+	left:75em;
 	text-align: left;
 
 }
