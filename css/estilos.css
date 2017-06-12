@@ -1,9 +1,3 @@
-
-#logoprincipal {
-	  max-width: 100%;
-    	height: auto;
-   	 width: auto;
-	}
 #portada{
 	max-width: 100%;
     height: auto;
@@ -16,7 +10,7 @@
    display:block;
    margin:0 auto 0 auto;
 }
-#map{
+#map{/*Posiciobar el mapa */
 	max-width: 100%;
     	height: 300;
    	 width: 100%;
@@ -87,14 +81,10 @@ a:hover {
 }
 
 iframe {
-
   display: block;
-
-		height: 315px;
-		width: 560px;
-
-	 margin:0 auto;
+ 	margin:0 auto;
 }
+
 .border {
 	border:none;
 	margin-bottom: 5px;
@@ -268,9 +258,7 @@ iframe {
 
 }
 
-#alineamenu{
-	margin-left:15%;
-}
+
 
 
 /* --- Footer --- */
