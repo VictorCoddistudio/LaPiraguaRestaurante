@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <?php require 'header.view.php';?>
 <?php require 'menu2.view.php'; ?>
 
@@ -34,7 +33,7 @@
   </div>
   <br/><br/><br/>
   <div class="row">
-    <img src="images/portada/kilo-de-chicharron-bassa-la-piragua-restarurante.png" title="Kilo de Chicharrón" alt="Kilo de Chicharrón" class="portada"  />
+    <img src="images/portada/kilo-de-chicharron-bassa-la-piragua-restarurante-2017.png" title="Kilo de Chicharrón" alt="Kilo de Chicharrón" class="portada"  />
   </div>
   <br/><br/><br/>
   <div class="row">
