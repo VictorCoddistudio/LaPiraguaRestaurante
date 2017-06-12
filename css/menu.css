@@ -1,8 +1,4 @@
-header{
-	position: relative;
-	margin:0 auto;
-	top:30px;
-}
+
 /*navbar*/
 .navbar-default{
 	background-image: url("../images/barramenu.png");
@@ -11,7 +7,7 @@ header{
 	max-height:50px;
 	width:auto;
 	position: relative;
-	top:0px;
+	top:30px;
 	margin: 0 auto;
 }
 
@@ -24,6 +20,10 @@ header{
   text-align: center;
 }
 
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+}
 
 
 
@@ -34,8 +34,10 @@ header{
 }
 #logopescado{
 	left:75em;
+	position: relative;
+	top:-20px;
 	text-align: left;
-
+	z-index: 1001;
 }
 #logobolsatrabajo, #logofb, #logobocontacto{
 	left:25em;
