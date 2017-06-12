@@ -24,7 +24,10 @@ a {
 a:hover {
 	text-decoration: underline;
 }
-
+.space{
+	margin-top: 70px;
+	position: relative;
+}
 
 .contenido{
 	position: relative;
