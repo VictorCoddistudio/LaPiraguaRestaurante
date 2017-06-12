@@ -6,8 +6,8 @@
  <div class="container">
   <div class="row space">
   </div>
-   <div class="row center">
-     <div class="col-sm-6">
+   <div class="row center-block">
+     <div class="col-sm-6 center-block">
        <div class="embed-responsive embed-responsive-16by9">
          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XCObpsr6rAM"></iframe>
        </div>
