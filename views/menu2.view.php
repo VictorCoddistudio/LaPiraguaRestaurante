@@ -9,7 +9,7 @@
 					</button>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
-					<ul>
+					<ul class="nav navbar-nav">
 					<li id="logopescado2"> <a href="pescadosymariscos.php"><img src="images/logomenupescadosymariscosmenu.png" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a></li>
 					<li id="logorestaurante2"> <a href="index.php"><img src="images/logomenulapiragua.png" title="La Piragua" alt="La Piragua" > </a></li>
 					<li id="logorestauranteExpress"> <a href="LaPiraguaExpress.php"><img src="images/logomenulapiraguaexpress.png" title="La Piragua Express" alt="La Piragua Express" > </a></li>
