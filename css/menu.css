@@ -1,7 +1,51 @@
+header{
+	position: relative;
+	background-image: url("../images/barramenu.png");
+	margin:0 auto;
+	top:30px;
+}
 
 /*navbar*/
+nav {
+	/*font-size: 13px;
+	font-family: 'Myriad', sans-serif;
+*/
+	/*background-image: url("../images/barramenu.png");*/
+	max-width: 2000px;
+	max-height:50px;
+	width:auto;
+	position: relative;
+	top:0px;
+	margin: 0 auto; /* Centro el contenedor */
+	/*background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	color:#fff;*/
+}
+header nav ul{
+	margin-left:5%;
+	list-style: none;
+
+}
+
+header nav ul li{
+display:inline-block;
+position:relative;
+top:-25px;
+
+}
+
+header nav ul li a {
+display:block;
+padding: 10px;
+
+
+}
+/*bootstrap
 .navbar-default{
 	background-image: url("../images/barramenu.png");
+
 	border-color: transparent;
 	max-width: 2000px;
 	max-height:50px;
@@ -9,8 +53,15 @@
 	position: relative;
 	top:30px;
 	margin: 0 auto;
-}
 
+	z-index: -1000;
+}
+.logoposition{
+	position: relative;
+	top:-20px;
+	z-index: 2000;
+}
+*/
 /* Links */
 .navbar-default .navbar-nav > li > a{
 	color: #27348A;
@@ -18,6 +69,7 @@
 	text-decoration: none;
 	padding: 10px;
   text-align: center;
+	z-index: 1001;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
@@ -28,16 +80,19 @@
 
 
 
-#logorestaurante, #logohistoria, #logomenu{
+#logorestaurante{
 	left:10%;
+
+
+}
+#logohistoria, #logomenu{
+	left:10%;
+	padding-top: 10px;
 
 }
 #logopescado{
 	left:75em;
-	position: relative;
-	top:-20px;
 	text-align: left;
-	z-index: 1001;
 }
 #logobolsatrabajo, #logofb, #logobocontacto{
 	left:25em;
