@@ -33,7 +33,7 @@
    </div>
    <div class="row">
      <br><br>
-     <a href="https://www.facebook.com/Piragua-Express-1848074038810635/"><img src="images/portada/piraguaexpress.png" class="portada" id="logoportada2" title="La Piragua Express" alt="La Piragua Express" > </a>
+     <a href="https://www.facebook.com/Piragua-Express-1848074038810635/" target="_blank"><img src="images/portada/piraguaexpress.png" class="portada" id="logoportada2" title="La Piragua Express" alt="La Piragua Express" > </a>
      <br><br>
    </div>
  </div>
