@@ -2,6 +2,7 @@
         To have multiple slideshows on the same page
         they just need to have separate IDs
       */
+			//la piragua express
 	  $('#slides2').slidesjs({
         width: 516,
         height: 347,
@@ -11,7 +12,8 @@
 					auto: true
 				}
       });
-	  
+
+
 	  //Portada
       $('#slides').slidesjs({
         width: 792,
@@ -22,6 +24,12 @@
           auto: true
         }
       });
+			//Folleto menu para dispositivos moviles
+			$('#slides3').slidesjs({
+				width: 300,
+        height: 370,
+        navigation: false
+			});
 	  $(document).ready(main);
 
 var contador = 1;
