@@ -12,7 +12,7 @@ nav {
 */
 	/*background-image: url("../images/barramenu.png");*/
 	max-width: 2000px;
-	max-height:50px;
+	max-height:38px;
 	width:auto;
 	position: relative;
 	top:0px;
@@ -32,7 +32,7 @@ header nav ul{
 header nav ul li{
 display:inline-block;
 position:relative;
-top:-25px;
+top:-20px;
 
 }
 
@@ -83,15 +83,15 @@ padding: 10px;
 #logorestaurante{
 	left:10%;
 
-
 }
 #logohistoria, #logomenu{
 	left:10%;
-
-
+}
+#logorestauranteExpress{
+	left:10.5%;
 }
 #logopescado{
-	left:75em;
+	left:77em;
 	text-align: left;
 }
 #logobolsatrabajo, #logofb, #logobocontacto{
