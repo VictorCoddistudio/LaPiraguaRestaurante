@@ -8,6 +8,7 @@
   <div class="row">
     <br>
     <div id="slides" class="slidesContainerIndex" >
+      <img src="images/portada/dia_padre.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabanners01.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabanners02.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabannersmariscos.png" title="Mariscos" alt="La piragua"/>
