@@ -39,6 +39,7 @@
   <br/><br/><br/>
 
   <div class="row">
+    <a href="LaPiraguaExpress.php"><img src="images/portada/piraguaexpress.png" class="portada" id="logoportada2" title="La Piragua Express" alt="La Piragua Express" > </a>
     <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos.png" class="portada" id="logoportada2" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a>
     <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos100natural.png" class="portada" title="La piragua" alt="La piragua"   /></a>
   </div>

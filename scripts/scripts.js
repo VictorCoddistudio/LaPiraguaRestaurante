@@ -11,12 +11,7 @@
 					auto: true
 				}
       });
-	  //Menu moviles
-	   $('#slides3').slidesjs({
-        width: 300,
-        height: 370,
-        navigation: false
-      });
+	  
 	  //Portada
       $('#slides').slidesjs({
         width: 792,
