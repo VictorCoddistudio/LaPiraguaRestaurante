@@ -7,7 +7,7 @@
 <div class="container">
   <div class="row">
     <br>
-    <div id="slides">
+    <div id="slides" class="slidesContainerIndex" >
       <img src="images/portada/lapiraguabanners01.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabanners02.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabannersmariscos.png" title="Mariscos" alt="La piragua"/>
@@ -37,7 +37,7 @@
     <img src="images/portada/kilo-de-chicharron-bassa-la-piragua-restarurante-2017.png" title="Kilo de Chicharrón" alt="Kilo de Chicharrón" class="portada"  />
   </div>
   <br/><br/><br/>
-  
+
   <div class="row">
     <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos.png" class="portada" id="logoportada2" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a>
     <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos100natural.png" class="portada" title="La piragua" alt="La piragua"   /></a>

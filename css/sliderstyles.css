@@ -8,10 +8,19 @@
 	width: 50%;
 	margin: 0 auto;
 	margin-bottom:50px;
+}
 
+.slidesContainer{
+	width: 516px;
+	height: 347px;
+}
+.slidesContainerIndex{
+width:792px;
+height:350px;
 }
 .container div img{
 	margin-bottom:30px;
+	width: 75%;
 }
     #slides {
 
