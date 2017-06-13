@@ -28,10 +28,12 @@
     <img src="images/portada/lapiraguainterior.png" title="La piragua" alt="La piragua" class="portada"  /><br/><br/><br/>
   </div>
   <div class="row">
-    <div class="col-sm-12">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/10jZn5PXi0w" frameborder="1" allowfullscreen >
-      </iframe>
+    <div class="col-sm-6 col-md-offset-3">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/10jZn5PXi0w"></iframe>
+      </div>
     </div>
+    
   </div>
   <br/><br/><br/>
   <div class="row">
