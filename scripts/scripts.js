@@ -26,8 +26,8 @@
       });
 			//Folleto menu para dispositivos moviles
 			$('#slides3').slidesjs({
-				width: 300,
-        height: 370,
+				width: 500,
+        height: 650,
         navigation: false
 			});
 	  $(document).ready(main);
