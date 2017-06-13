@@ -21,7 +21,10 @@
      </div>
    </div>
 
-  <div class="row space">
+  <div class="row">
+    <br><br>
+    <a href="LaPiraguaExpress.php"><img src="images/portada/piraguaexpress.png" class="portada" id="logoportada2" title="La Piragua Express" alt="La Piragua Express" > </a>
+    <br><br>
   </div>
    <div class="row">
      <div class="col-sm-6 col-md-offset-3">
