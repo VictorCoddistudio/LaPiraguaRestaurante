@@ -4,6 +4,8 @@
  <?php require 'menu.view.php'; ?>
 
  <div class="container">
+   <div class="row space">
+   </div>
    <div class="row">
      <br>
      <div class="col-sm-6 col-md-offset-3 ">
