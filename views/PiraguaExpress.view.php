@@ -3,7 +3,7 @@
  <?php require 'header.view.php';?>
  <?php require 'menu.view.php'; ?>
 
- <div class="container">
+ <div class="container-fluid">
    <div class="row space">
    </div>
    <div class="row">
@@ -25,7 +25,7 @@
 
   </div>
    <div class="row">
-     <div class="col-sm-6 col-md-offset-3">
+     <div class="col-lg-6 col-lg-offset-3">
        <div class="embed-responsive embed-responsive-16by9">
          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XCObpsr6rAM"></iframe>
        </div>
@@ -33,9 +33,11 @@
    </div>
    <div class="row">
      <br><br>
-     <a href="https://www.facebook.com/Piragua-Express-1848074038810635/" target="_blank"><img src="images/portada/piraguaexpress.png" class="portada" id="logoportada2" title="La Piragua Express" alt="La Piragua Express" > </a>
-     <br><br>
+     <div class="col-lg-2 col-lg-offset-5">
+       <a href="https://www.facebook.com/Piragua-Express-1848074038810635/" target="_blank"><img src="images/portada/piraguaexpress.png" class="img-responsive center-block" title="La Piragua Express" alt="La Piragua Express" > </a>
+     </div>
    </div>
+   <br><br>
  </div>
 
 <?php require 'footer.view.php'; ?>

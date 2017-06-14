@@ -19,21 +19,21 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-4 col-lg-offset-4 col-md-12">
-      <a href="historia.php"><img src="images/portada/nuestrahistorialapiraguaicono.png" title="Historia" alt="Nuesta Historia"  class="img-responsive" > </a>
+    <div class="col-lg-4 col-lg-offset-4 col-md-12 col-sm-12">
+      <a href="historia.php"><img src="images/portada/nuestrahistorialapiraguaicono.png" title="Historia" alt="Nuesta Historia"  class="img-responsive center-block" > </a>
     </div>
   </div>
 
   <div class="row">
     <br>
     <div class="col-lg-4 col-lg-offset-4 col-md-12">
-      <a href="menu.php"><img src="images/portada/menulapiraguaicono.png" title="Menú" alt="Menú"  class="img-responsive" >  </a>
+      <a href="menu.php"><img src="images/portada/menulapiraguaicono.png" title="Menú" alt="Menú"  class="img-responsive center-block" >  </a>
     </div>
   </div>
-  <br> <br> <br>
+</br> </br> </br>
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
-      <img src="images/portada/lapiraguainterior.png" title="La piragua" alt="La piragua" class="img-responsive" ><br/><br/><br/>
+      <img src="images/portada/lapiraguainterior.png" title="La piragua" alt="La piragua" class="img-responsive center-block" ><br/><br/><br/>
     </div>
   </div>
   <div class="row">
@@ -45,24 +45,24 @@
   </div>
   <br/><br/><br/>
   <div class="row">
-    <div class="col-lg-10 col-lg-offset-2 col-md-12">
-      <img src="images/portada/kilo-de-chicharron-bassa-la-piragua-restarurante-2017.png" title="Kilo de Chicharrón" alt="Kilo de Chicharrón" class="img-responsive">
+    <div class="col-lg-10 col-lg-offset-1 col-md-12">
+      <img src="images/portada/kilo-de-chicharron-bassa-la-piragua-restarurante-2017.png" title="Kilo de Chicharrón" alt="Kilo de Chicharrón" class="img-responsive center-block">
     </div>
   </div>
   <br/><br/><br/>
 
   <div class="row">
     <div class="col-lg-3 col-lg-offset-3">
-      <a href="LaPiraguaExpress.php"><img src="images/portada/piraguaexpress.png" class="img-responsive" title="La Piragua Express" alt="La Piragua Express" > </a>
+      <a href="LaPiraguaExpress.php"><img src="images/portada/piraguaexpress.png" class="img-responsive center-block" title="La Piragua Express" alt="La Piragua Express" > </a>
     </div>
     <div class="col-lg-3">
-      <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos.png" class="img-responsive" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a>
+      <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos.png" class="img-responsive center-block" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a>
     </div>
   </div>
   <br/><br/><br/>
   <div class="row">
-    <div class="col-lg-10 col-lg-offset-2 col-md-12">
-      <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos100natural.png" class="img-responsive" title="La piragua" alt="La piragua"></a>
+    <div class="col-lg-10 col-lg-offset-1 col-md-12">
+      <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos100natural.png" class="img-responsive center-block" title="La piragua" alt="La piragua"></a>
     </div>
   </div>
 </div>
