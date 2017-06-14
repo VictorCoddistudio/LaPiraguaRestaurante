@@ -120,11 +120,11 @@ height:350px;
       	width:100%;
       }
 			.slidesContainer{ /*Slider Piragua Express */
-				width: 490px;
+				width: auto;
 
 			}
 			.slidesContainerIndex{/*Slider Piragua Principal*/
-				width: 500px;
+				width: auto;
 
 			}
       #H_vertical2, .flipbook-viewport{
@@ -143,11 +143,11 @@ height:350px;
 
       }
 			.slidesContainer{ /*Slider Piragua Express */
-				width: 390px;
+				width: auto;
 
 			}
 			.slidesContainerIndex{/*Slider Piragua Principal*/
-				width: 400px;
+				width: auto;
 
 			}
      /* #vertical, #horizontal{
