@@ -119,14 +119,11 @@ height:350px;
       .contenidos article  {
       	width:100%;
       }
-			.slidesContainer{ /*Slider Piragua Express */
+			.slidesContainer, .slidesContainerIndex{ /*Slider Piragua Express / Slider Piragua Principal*/
 				width: auto;
-
+				height: auto;
 			}
-			.slidesContainerIndex{/*Slider Piragua Principal*/
-				width: auto;
 
-			}
       #H_vertical2, .flipbook-viewport{
       	display:none;
       }
@@ -142,14 +139,11 @@ height:350px;
         width: auto;
 
       }
-			.slidesContainer{ /*Slider Piragua Express */
+			.slidesContainer, .slidesContainerIndex{ /*Slider Piragua Express / Slider Piragua Principal*/
 				width: auto;
-
+				height: auto;
 			}
-			.slidesContainerIndex{/*Slider Piragua Principal*/
-				width: auto;
 
-			}
      /* #vertical, #horizontal{
       	display:none;
       }*/
