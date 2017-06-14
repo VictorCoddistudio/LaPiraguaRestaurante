@@ -10,11 +10,11 @@
 	margin-bottom:50px;
 }
 
-.slidesContainer{
+.slidesContainer{ /*Slider Piragua Express */
 	width: 516px;
 	height: 347px;
 }
-.slidesContainerIndex{
+.slidesContainerIndex{/*Slider Piragua Principal*/
 width:792px;
 height:350px;
 }
@@ -119,6 +119,14 @@ height:350px;
       .contenidos article  {
       	width:100%;
       }
+			.slidesContainer{ /*Slider Piragua Express */
+				width: 490px;
+
+			}
+			.slidesContainerIndex{/*Slider Piragua Principal*/
+				width: 500px;
+
+			}
       #H_vertical2, .flipbook-viewport{
       	display:none;
       }
@@ -131,7 +139,7 @@ height:350px;
     /* For smartphones */
     @media (max-width: 480px) {
       .container, .galeria {
-        width: auto
+        width: auto;
 
       }
      /* #vertical, #horizontal{
