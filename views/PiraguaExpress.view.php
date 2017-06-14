@@ -8,8 +8,8 @@
    </div>
    <div class="row">
      <br>
-     <div class="col-sm-6 col-md-offset-3 ">
-       <div id="slides2" class="slidesContainer">
+     <div class="col-sm-6 col-md-offset-3">
+       <div id="slides2" class="slidesContainer center-block">
          <img src="images/LaPiraguaExpress/LaPiraguaExpress-1.jpeg" title="La piragua" alt="La piragua"/>
          <img src="images/LaPiraguaExpress/LaPiraguaExpress-2.jpeg" title="La piragua" alt="La piragua"/>
          <img src="images/LaPiraguaExpress/LaPiraguaExpress-3.jpeg" title="Mariscos" alt="La piragua"/>
