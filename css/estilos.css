@@ -249,6 +249,13 @@ iframe {
 
 
 }
+.divPescados{
+
+	padding: 1%;
+	background: #ecd8c6;
+	color:#000;
+	border: 5px solid  #DD181C;
+}
 .contenidos article div {/*Para los pescados*/
 	padding: 1%;
 	/*background: #fff;*/

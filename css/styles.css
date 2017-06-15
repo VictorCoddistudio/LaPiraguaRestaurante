@@ -18,7 +18,7 @@ body {
     background-size: cover;
 	color:#fff;
 	margin: 0 auto;
-	
+
 }
 
 .galeria{
@@ -84,19 +84,24 @@ ul{
        list-style:none;
 
    }
-.contenidos div {
 
-
-}
 #float1{
 border: 1px solid  #000099;
+padding: 1%;
+margin: 1%;
 	}
 #float2{
 border: 1px solid  #ff9900;
+padding: 1%;
+margin: 1%;
 }
 #float3{
 border: 1px solid  #003300;
+padding: 1%;
+margin: 1%;
 }
 #float4{
  border: 1px solid #DD181C;
+ padding: 1%;
+margin: 1%;
 }
