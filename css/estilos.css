@@ -256,6 +256,10 @@ iframe {
 	color:#000;
 	border: 5px solid  #DD181C;
 }
+.divPadd{
+	padding: 1%;
+	text-align: justify;
+}
 .contenidos article div {/*Para los pescados*/
 	padding: 1%;
 	/*background: #fff;*/
