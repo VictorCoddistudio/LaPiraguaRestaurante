@@ -42,26 +42,7 @@ padding: 10px;
 
 
 }
-/*bootstrap
-.navbar-default{
-	background-image: url("../images/barramenu.png");
 
-	border-color: transparent;
-	max-width: 2000px;
-	max-height:50px;
-	width:auto;
-	position: relative;
-	top:30px;
-	margin: 0 auto;
-
-	z-index: -1000;
-}
-.logoposition{
-	position: relative;
-	top:-20px;
-	z-index: 2000;
-}
-*/
 /* Links */
 .navbar-default .navbar-nav > li > a{
 	color: #27348A;
@@ -89,6 +70,8 @@ padding: 10px;
 }
 #logorestauranteExpress{
 	left:10.5%;
+	height: auto;
+	width: auto;
 }
 #logopescado{
 	left:77em;
