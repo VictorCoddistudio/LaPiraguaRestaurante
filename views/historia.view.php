@@ -3,8 +3,8 @@
  <?php require 'header.view.php';?>
  <?php require 'menu.view.php'; ?>
  <div class="container-fluid" >
-   <div class="row space"></div>
-   <br>
+   <div class="row space hidden-md-down"><br></div>
+
    <div class="row">
      <h1 class="titulo">NUESTRA HISTORIA</h1>
    </div>
