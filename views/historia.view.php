@@ -44,7 +44,11 @@
           </div>
         </div>
         <div class="row divPadd">
-			       <img src="images/historiaelementos/historiarestaurantelapiragua.png" title="Historia La Piragua" alt="Historia La Piragua" class="img-responsive center-block"  />
+          <div class="col-lg-12">
+            <br>
+			      <img src="images/historiaelementos/historiarestaurantelapiragua.png" title="Historia La Piragua" alt="Historia La Piragua" class="img-responsive center-block"  />
+            <br>
+          </div>
         </div>
       </div>
     </div>
