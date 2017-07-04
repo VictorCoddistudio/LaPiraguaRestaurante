@@ -8,6 +8,7 @@
   <div class="row">
     <br>
     <div id="slides" class="slidesContainerIndex" >
+      <img src="images/portada/graduados.png" title="Graduados" alt="La piragua"/>
       <img src="images/portada/lapiraguabanners01.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabanners02.png" title="La piragua" alt="La piragua"/>
       <img src="images/portada/lapiraguabannersmariscos.png" title="Mariscos" alt="La piragua"/>
@@ -22,13 +23,14 @@
       <a href="historia.php"><img src="images/portada/nuestrahistorialapiraguaicono.png" title="Historia" alt="Nuesta Historia"  class="img-responsive center-block" > </a>
     </div>
   </div>
-
+<!--
   <div class="row">
     <br>
     <div class="col-lg-4 col-lg-offset-4 col-md-12">
       <a href="menu.php"><img src="images/portada/menulapiraguaicono.png" title="Menú" alt="Menú"  class="img-responsive center-block" >  </a>
     </div>
   </div>
+-->
 </br> </br> </br>
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
