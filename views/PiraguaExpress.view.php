@@ -32,7 +32,7 @@
    </div>
    <div class="row">
      <br><br>
-     <div class="col-lg-2 col-lg-offset-5">
+     <div class="col-lg-3 col-lg-offset-3 col-xs-6 col-xs-offset-3">
        <a href="https://www.facebook.com/Piragua-Express-1848074038810635/" target="_blank"><img src="images/portada/piraguaexpress.png" class="img-responsive center-block" title="La Piragua Express" alt="La Piragua Express" > </a>
      </div>
    </div>

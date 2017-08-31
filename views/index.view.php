@@ -8,12 +8,13 @@
   <div class="row">
     <br>
     <div id="slides" class="slidesContainerIndex" >
-      <img src="images/portada/graduados.png" title="Graduados" alt="La piragua"/>
-      <img src="images/portada/lapiraguabanners01.png" title="La piragua" alt="La piragua"/>
-      <img src="images/portada/lapiraguabanners02.png" title="La piragua" alt="La piragua"/>
-      <img src="images/portada/lapiraguabannersmariscos.png" title="Mariscos" alt="La piragua"/>
-      <img src="images/portada/lapiraguabannerspescadofrito.png" title="Pescado Frito" alt="La piragua"/>
-      <img src="images/portada/lapiraguabannerspescasopa.png" title="Sopa de Pescado" alt="La piragua"/>
+
+        <img src="images/portada/lapiraguabanners01.png" title="La piragua" alt="La piragua"/>
+        <img src="images/portada/lapiraguabanners02.png" title="La piragua" alt="La piragua"/>
+        <img src="images/portada/lapiraguabannersmariscos.png" title="Mariscos" alt="La piragua"/>
+        <img src="images/portada/lapiraguabannerspescadofrito.png" title="Pescado Frito" alt="La piragua"/>
+        <img src="images/portada/lapiraguabannerspescasopa.png" title="Sopa de Pescado" alt="La piragua"/>
+        <img src="images/portada/lunes.png" title="Cerrado los lunes" alt="La piragua"/>
       <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="icon-chevron-left"></i></a>
       <a href="#" class="slidesjs-next slidesjs-navigation"><i class="icon-chevron-right"></i></a>
     </div>
@@ -53,10 +54,10 @@
   <br/><br/><br/>
 
   <div class="row">
-    <div class="col-lg-3 col-lg-offset-3">
+    <div class="col-lg-3 col-lg-offset-3 col-xs-6 col-xs-offset-3">
       <a href="LaPiraguaExpress.php"><img src="images/portada/piraguaexpress.png" class="img-responsive center-block" title="La Piragua Express" alt="La Piragua Express" > </a>
     </div>
-    <div class="col-lg-3">
+    <div class="col-lg-3 col-lg-offset-0 col-xs-6 col-xs-offset-3">
       <a href="pescadosymariscos.php"><img src="images/portada/pescadosymariscos.png" class="img-responsive center-block" title="Pescados y Mariscos" alt="Pescados y Mariscos" > </a>
     </div>
   </div>
